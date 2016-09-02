@@ -1,0 +1,12 @@
+.comm{
+    border-bottom: 1px solid grey;
+    margin-top: 10px;
+    background-color: beige;
+}
+
+.comm-ans{
+    margin-top: 10px;
+}
+.comm-del{
+    margin-top: 3px;
+}
