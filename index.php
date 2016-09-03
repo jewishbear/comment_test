@@ -17,7 +17,7 @@ function __autoload($class_name) {
 }
 
 $a=new CommentTracker();
-$a->show();
+$a->show(); //showing existing comments
 ?>
 
 
